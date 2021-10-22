@@ -1,7 +1,7 @@
 - 👋 Hi, I’m wenkai
 - 👀 I’m interested in statistics and machine learning
 - 🌱 I’m currently learning Stein's method and network analysis
-- 💞️ I’m looking to collaborate on various projects
+- 💞️ I’m open to discussions and collaboration
 - 📫 How to reach me: wenkai.xu@stats.ox.ac.uk
 
 <!---
